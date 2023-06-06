@@ -1,4 +1,4 @@
-# READ ME
+# Data Modeling
 The purpose of this project was to help a startup called Sparkify achieve their analytical goals by helping them understand what their users are listening to. This is done by providing a ETL pipline and a database with a star schema so that it is easy to query the data. The reason a star schema was chosen is because it provides fast aggregations for simple queries. 
 
 ## Project Description 
